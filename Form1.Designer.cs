@@ -177,7 +177,7 @@
             Controls.Add(label2);
             Controls.Add(label1);
             Name = "Form1";
-            Text = "Umnik2";
+            Text = "Umnik2 v.1";
             Load += Form1_Load;
             ResumeLayout(false);
             PerformLayout();
